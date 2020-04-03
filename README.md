@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Luke's build of st - the simple (suckless) terminal
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
@@ -80,3 +81,8 @@ Note that some special characters may appear truncated if too wide. You might wa
 
 - Luke Smith <luke@lukesmith.xyz>
 - [https://lukesmith.xyz](https://lukesmith.xyz)
+=======
+# To install
+  * cd st
+  * sudo make install
+>>>>>>> 52f50313adbb72367da043bd6a1742155bff2df6
